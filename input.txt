@@ -1,0 +1,9 @@
+&data
+
+initialdist = 0,
+boundary = 1,
+timesteps = 1000,
+repeats = 16,
+nspaces = 50,
+maxparticlesperspace = 100,
+nspecies = 1,/
